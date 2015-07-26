@@ -1,0 +1,5 @@
+# backup files created by the text editor
+*.bak
+
+# backup files created by P4Merge
+*.orig
